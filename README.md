@@ -11,5 +11,5 @@ Projek machine learning dasar scissors atau Permainan Batu Kertas Gunting sederh
   ################# SEMOGA BERMANFAAT !! #############################
 
 # Galeri
- - Gambar diagram hasil processing, data pelatihan dan data validasi 
+ - Gambar diagram hasil akurasi dari model, data pelatihan dan data validasi 
 ![image](https://github.com/SholehUyee/ML_Computer-Vision_BatuKertasGunting/assets/120776794/28cf6dcc-40c1-4da7-88e3-fb992a60b9f9)
